@@ -9,6 +9,7 @@ Group:		Development/Perl
 Summary:    Perl extension to find regexp delimited strings with proper nesting
 Source0:    http://search.cpan.org/CPAN/authors/id/N/NW/NWALSH/DelimMatch-%{version}%{preversion}.tar.bz2
 Url:		http://search.cpan.org/dis/DelimMatch
+BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires:	perl-devel
 BuildArch: noarch
 
