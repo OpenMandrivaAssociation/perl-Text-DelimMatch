@@ -12,6 +12,8 @@ Url:		http://search.cpan.org/dis/DelimMatch
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires:	perl-devel
 BuildArch: noarch
+# temporary dep due to the perl-5.14 bump
+BuildRequires:  perl-List-MoreUtils >= 0.320.0-4
 
 %description
 These routines allow you to match delimited substrings in a buffer.
