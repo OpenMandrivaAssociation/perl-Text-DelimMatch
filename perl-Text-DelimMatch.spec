@@ -3,7 +3,7 @@
 
 Name:		perl-%{realname}
 Version:    1.06
-Release:    %mkrel 8
+Release:    %mkrel 9
 License:	GPL
 Group:		Development/Perl
 Summary:    Perl extension to find regexp delimited strings with proper nesting
