@@ -4,7 +4,7 @@
 Summary:	Perl extension to find regexp delimited strings with proper nesting
 Name:		perl-%{modname}
 Version:	1.06
-Release:	18
+Release:	19
 License:	GPLv2
 Group:		Development/Perl
 Url:		http://search.cpan.org/dis/DelimMatch
