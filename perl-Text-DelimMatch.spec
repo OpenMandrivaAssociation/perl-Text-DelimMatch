@@ -7,7 +7,7 @@ Version:	1.06
 Release:	25
 License:	GPLv2
 Group:		Development/Perl
-Url:		http://search.cpan.org/dis/DelimMatch
+Url:		https://search.cpan.org/dis/DelimMatch
 Source0:	http://search.cpan.org/CPAN/authors/id/N/NW/NWALSH/DelimMatch-%{version}%{preversion}.tar.bz2
 BuildArch:	noarch
 BuildRequires:	perl-devel
