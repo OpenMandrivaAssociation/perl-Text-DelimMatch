@@ -10,6 +10,7 @@ Group:		Development/Perl
 Url:		https://search.cpan.org/dis/DelimMatch
 Source0:	http://search.cpan.org/CPAN/authors/id/N/NW/NWALSH/DelimMatch-%{version}%{preversion}.tar.bz2
 BuildArch:	noarch
+BuildRequires:	make
 BuildRequires:	perl-devel
 
 %description
